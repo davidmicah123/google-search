@@ -10,3 +10,58 @@
     margin-left: 5vw;
 
 }
+.search_section{
+    display: grid;
+    grid-template-columns: 1.2fr 5fr 1fr;
+}
+.arrows{
+    font-size: 4vh;
+    height: 10vh;
+}
+.gmail_rofile_pic{
+    height: 5vh;
+    width: 3vw;
+    border-radius: 50%;
+    margin-top: 2.5vh;
+    margin-left: .5vw;
+}
+.readinglist{
+    float: right;
+}
+.r_list{
+    margin-right: 1vw;
+}
+.google{
+    font-size: 20vh;
+    text-align: center;
+}
+.g{
+    color: blue;
+}
+.o{
+    color: red;
+}
+.o2{
+    color: red;
+}
+.g2{
+    color: blue;
+}
+.l{
+    color: green;
+}
+.e{
+    color: red;
+}
+.search2_section{
+    display: flex;
+    justify-content: center;
+}
+.search2{
+    width: 40vw;
+    height: 7vh;
+    border-radius: 1.8em;
+    border: 0;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.247);
+    padding-left: 2vw;
+}
